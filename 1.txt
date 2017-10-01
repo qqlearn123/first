@@ -1,2 +1,6 @@
+
 This is a new file.
 Local.
+
+This is a new file. Modified.
+
